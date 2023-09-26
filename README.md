@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: LAVANYA M
+### Register Number: 212222110021
+
+![Screenshot 2023-09-26 144013](https://github.com/LavanyaMuraleedharan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120103862/1086da1f-722c-4498-9826-4dc0de789cf0)
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
